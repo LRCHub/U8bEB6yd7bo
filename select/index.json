@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "トオトロジイダウトフル",
+  "base_artist": "ツミキ",
+  "createdAt": "2026-03-08T08:35:15.924505Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トオトロジイダウトフル",
+      "artist": "ツミキ",
+      "has_synced": false,
+      "path": "select/01_トオトロジイダウトフル_ツミキ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トオトロジイダウトフル",
+      "artist": "ツミキ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_トオトロジイダウトフル_ツミキ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トオトロジイダウトフル",
+      "artist": "Tsumiki",
+      "has_synced": true,
+      "path": "select/03_トオトロジイダウトフル_Tsumiki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トオトロジイダウトフル",
+      "artist": "ツミキ",
+      "has_synced": true,
+      "path": "select/04_トオトロジイダウトフル_ツミキ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トオトロジイダウトフル",
+      "artist": "ツミキ",
+      "has_synced": false,
+      "path": "select/pl_01_トオトロジイダウトフル_ツミキ.txt"
+    }
+  ]
+}
